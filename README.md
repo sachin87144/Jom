@@ -201,7 +201,7 @@
     <div class="container">
         <!-- Login Form -->
         <div class="form-container" id="loginForm">
-            <h2>Welcome to Your Personal Web Space</h2>
+            <h2>Welcome to Personal my web</h2>
             <div class="input-group">
                 <input type="text" id="username" placeholder="Username" required>
                 <div class="error" id="usernameError">Please enter a valid username (min 3 characters)</div>
@@ -212,7 +212,7 @@
             </div>
             <button id="loginBtn">Login</button>
             <div class="input-group" style="text-align: center; margin-top: 15px;">
-                <p>sahi se bharna</p>
+                <p>sahi se bharna prutha bhen</p>
             </div>
         </div>
 
