@@ -241,7 +241,9 @@
             <div class="content-area">
                 <h3>Your Personal Notes</h3>
                 <p>You can write and save your personal notes here:</p>
-                <textarea id="personalNotes" placeholder="Start typing your notes here..."></textarea>
+                <textarea id="personalNotes" placeholder="Start typing your notes here..."></textarea>  <h3>write your answer sister</h3>
+                <p>ap yaha par apne bichar likho:</p>
+                <textarea id="answer"placeholder="now type here..."></textarea>
                 <button class="save-btn" id="saveNotesBtn">Save Notes</button>
                 <div class="saved-message" id="savedMessage">Notes saved successfully!</div>
             </div>
